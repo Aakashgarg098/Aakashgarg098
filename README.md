@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me ...
 
-# You can reach me through various social sites by clicking on the link down below
+# You can join me through various social sites by clicking on the link down below
 
 1. Linkedin - https://www.linkedin.com/in/aakashgarg098/
 2. Kaggle - https://www.kaggle.com/aakashgarg098
