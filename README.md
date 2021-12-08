@@ -10,6 +10,9 @@
 2. Kaggle - https://www.kaggle.com/aakashgarg098
 3. Hackerrank - https://www.hackerrank.com/gargaakash098?hr_r=1
 4. Twitter - https://twitter.com/Aakashgarg098
+5. Facebook - https://www.facebook.com/gargaakash098/
+6. Instagram - https://www.instagram.com/aakashgarg098/
+7. Medium - https://medium.com/@gargaakash098
 
 <!---
 Aakashgarg098/Aakashgarg098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
